@@ -42,7 +42,7 @@ line-height: 0.5em;
 
   display:flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justigfy-content: center;
 
 }
 
@@ -52,7 +52,7 @@ line-height: 0.5em;
 }
 
 body  {
-background-image: url("/Users/apple/Desktop/klosstagram/assets/balloons-calm-clouds-574282 (1).jpg");
+background-image: url("./assets/balloons-calm-clouds-574282 (1).jpg");
 /* background-color: #cccccc; */
 background-repeat: no-repeat;
 background-size: 100%;
